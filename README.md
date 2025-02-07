@@ -4,6 +4,7 @@ Hi I'm Michael and I am a Computer Science Enthusiast , My goal is to become a f
 to do what I want and what I need on my devices and help others. Software plays a key role in the world and I want to be able to contribute to the solutions.
 
 I speak english , afrikaans and german
+
 Born in 2007
 
 # Languages and Tools
