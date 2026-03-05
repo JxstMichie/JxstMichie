@@ -1,5 +1,5 @@
 # About Me
-
+Born in 2007 , German, english and Afrikaans
 
 # Languages and Tools
 
