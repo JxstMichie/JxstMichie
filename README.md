@@ -15,7 +15,3 @@ Born in 2007
 </p>
 
 **[ProtonOxide](https://github.com/JxstMichie/ProtonOxide)** - Use 3rd party emails within the ProtonMail client *(early in development)*
-<br>
-<br>
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/theslayfox12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathan-ippy-875b26345/) 
